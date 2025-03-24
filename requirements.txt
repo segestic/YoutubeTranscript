@@ -1,2 +1,2 @@
-gradio==5.22.0
+streamlit==1.43.2
 youtube-transcript-api==1.0.2
