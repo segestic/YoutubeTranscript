@@ -1,0 +1,2 @@
+gradio==5.22.0
+youtube-transcript-api==1.0.2
