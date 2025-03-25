@@ -25,7 +25,7 @@ To get started with the YouTube Transcript Generator, follow these steps:
 To run the application, use the following command:
 
 ```bash
-streamlit run app
+streamlit run app.py
 ```
 
 This will launch the application in your web browser, allowing you to input a YouTube video URL and generate the transcript.
